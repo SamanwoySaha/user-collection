@@ -1,0 +1,39 @@
+.user {
+    display: flex;
+    flex-direction: column;
+    flex: 200px;
+    text-align: center;
+    background-color: #4643D3;
+    color: white;
+    border-radius: 30px;
+    padding: 30px;
+    margin: 30px;
+    border: 10px solid #f5f8fa;
+}
+.user-fullname {
+    margin: 20px 0 5px;
+}
+
+.user-username {
+    margin-bottom: 15px;
+}
+
+.user-image {
+    border-radius: 50%;
+    border: 8px solid lightgrey;
+}
+
+.user-add-btn {
+    background-color: #E84855;
+    color: white;
+    font-weight: 800;
+    border-radius: 20px;
+    border: none;
+    padding: 8px 10px;
+    margin: 20px 40px 5px;
+}
+
+.icon {
+    font-size: 14px;
+    margin-right: 3px;
+}
